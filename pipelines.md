@@ -1,3 +1,3 @@
 # Pipeline-Chart
 
-![Azure Repos](images/04.png)
+![Azure Repos](images/pipelines/04.png)
